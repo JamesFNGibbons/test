@@ -2,5 +2,9 @@ Hello world!
 
 This is another line!
 
+<<<<<<< HEAD
 
 I am another change in the other file!
+=======
+I am a change!
+>>>>>>> a5b575dde619fb672bc3d2daaafbb0f1b24452cc
