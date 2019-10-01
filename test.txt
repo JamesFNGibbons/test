@@ -1,3 +1,6 @@
 Hello world!
 
 This is another line!
+
+
+I am another change in the other file!
